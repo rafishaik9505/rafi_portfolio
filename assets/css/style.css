@@ -1,0 +1,55 @@
+body {
+
+font-family: Arial;
+
+margin: 0;
+
+background: #f4f4f4;
+
+}
+
+header {
+
+background: black;
+
+color: white;
+
+padding: 20px;
+
+text-align: center;
+
+}
+
+nav a {
+
+color: white;
+
+margin: 10px;
+
+text-decoration: none;
+
+}
+
+section {
+
+background: white;
+
+margin: 20px;
+
+padding: 20px;
+
+border-radius: 10px;
+
+}
+
+footer {
+
+background: black;
+
+color: white;
+
+text-align: center;
+
+padding: 10px;
+
+}
